@@ -1,6 +1,6 @@
 # Use the  ``gapminder`` dataset to answer the following questions:
 
-1. Create a new dataframe with counties in Africa for year 2002. Use only the following variables:
+1. Create a new dataframe with countries in Africa for year 2002. Use only the following variables:
 - Country
 - Life expectancy
 - Population
