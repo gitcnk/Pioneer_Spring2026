@@ -16,6 +16,6 @@ Name this new dataframe as ``mydata``
 
 4. Color the points of the scatterplot based on the life expectancy level (low, avg, high).
 
-5. Write a code using ``dplyr`` syntax and $$\color{red}verbs$$ to list the names of the contiries with 'low' life expectancy.
+5. Write a code using ``dplyr`` syntax and $$\color{red}verbs$$ to list the names of the countries with 'low' life expectancy.
 
 
