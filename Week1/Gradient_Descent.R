@@ -4,6 +4,7 @@
 
 # Step 1: DRAW A PICTURE!!
 
+t = seq(0,4, by = 0.01)
 
 
 
