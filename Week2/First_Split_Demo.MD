@@ -1,4 +1,4 @@
-## Classification and Regression Trees.
+## Regression Tree -- First Split.
 
 
 Open the following URL and explore how the first split is decided using student data from Portugal.
