@@ -37,7 +37,10 @@ $$ 10^a - 5^b = 17 $$
 It is ***not possible*** to solve these two equations easily.  These are called non-linear equations.
 
 Your Task:  
-- Go to Desmos (desmos.com) and plot these two curves and find the solution.  If you do this correctly, you'll see that the solutions is $(a = 1.383, b = 1.221)$.   
+- Go to Desmos (desmos.com) and plot these two curves and find the solution.  If you do this correctly, you'll see that the solution is $(a = 1.383, b = 1.221)$.  Attach your plot.  
+
+*BTW: I love Desomos, if you know a better website that can do this please let me know, I'd love to experiment*
+
 - Now write a gradient descent code to solve these two equations using the mean squared error loss function.
 
 **Hint: Think about what is $y(true)$ and $\hat y (prediction)$ in this case.**
