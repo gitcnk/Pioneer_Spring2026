@@ -40,7 +40,7 @@ Your Task:
 - Go to Desmos (desmos.com) and plot these two curves and find the solution.  If you do this correctly, you'll see that the solutions is $ (a = 1.383, b = 1.221) $.   
 - Now write a gradient descent code to solve these two equations using the mean squared error loss function.
 
-**Hint: Think about what is $y(true)$ and $\hat y (prediction)$ in this case.**
+*Hint: Think about what is $y(true)$ and $\hat y (prediction)$ in this case.*
 
 
 
