@@ -22,13 +22,14 @@
 
  5. [**Hard**]  Consider the follwing two equations:
 
-$ 3a + 4b = 10$\\
-$ 10a - 5b = 17\\
+$$ 3a + 4b = 10$
+$$ 10a - 5b = 17$$
 
 It is easy to find the values (no need to do it) of 'a' and 'b' from these two equations.  
 
 No to the actual problem:  consider a modified version of these two eqauations:
 $ 3a + 4b = 10$\\
-$ 10a - 5b = 17\\
+$ 10a - 5b = 17$\\
+
 
 
