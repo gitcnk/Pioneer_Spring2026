@@ -22,19 +22,19 @@
 
 - Write a program usng the 'L' approach (gradient descent) to find the slope and intercept. Attach your code and output.
 
- 5. [**Hard**]  Consider the follwing two equations:
+ 5. [**Somewhat Hard**]  Consider the following two equations:
 
 $$ 3a + 4b = 10 $$
 $$ 10a - 5b = 17 $$
 
-It is easy to find the values (no need to do it) of 'a' and 'b' from these two equations.  
+It is easy to find the values of 'a' and 'b' from these two equations.  No need to find them.
 
-No to the actual problem:  consider a modified version of these two eqauations:
+Now to the actual problem:  consider a modified version of these two eqauations:
 
 $$ 3^a + 4^b = 10 $$
 $$ 10^a - 5^b = 17 $$
 
-It is not possible to solve these two equations easily.  These are called non-linear equations.
+It is ***not possible*** to solve these two equations easily.  These are called non-linear equations.
 
 Your Task:  
 - Go to Desmos (desmos.com) and plot these two curves and find the solution.  If you do this correctly, you'll see that the solutions is $ (a = 1.383, b = 1.221) $.   
