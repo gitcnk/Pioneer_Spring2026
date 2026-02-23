@@ -22,14 +22,18 @@
 
  5. [**Hard**]  Consider the follwing two equations:
 
-$$ 3a + 4b = 10$
-$$ 10a - 5b = 17$$
+$$ 3a + 4b = 10 $$
+$$ 10a - 5b = 17 $$
 
 It is easy to find the values (no need to do it) of 'a' and 'b' from these two equations.  
 
 No to the actual problem:  consider a modified version of these two eqauations:
-$ 3a + 4b = 10$\\
-$ 10a - 5b = 17$\\
+$$ 3^a + 4^b = 10 $$
+$$ 10^a - 5^b = 17 $$
 
+It is not possible to solve these two equations easily.  These are called non-linear equations.
+
+Your Task:  
+- Go to Desmos (desmos.com) and plot these two curves and find the solution.  If you do this correctly, you'll see tha the solutions is $$(1.383, 1.221 $$ 
 
 
