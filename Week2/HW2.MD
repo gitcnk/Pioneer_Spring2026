@@ -14,13 +14,15 @@
 
 `mymodel = lm( y ~ x )`
 
-- Find the slope and intercept of this model using the `lm` funciton in R.
-- If you do this correctly, you'll find that the intercept estimate is about 5.6.  Is there a meaning to this value?  Your immediate answer might be 'No' because, we should not have an interceot to begin with.  But, I want you think harder and ask could there be another interpretation?
+- Find the slope and intercept of this model using the `lm` function in R.
+
+- If you do this correctly, you'll find that the intercept estimate is about 5.6.  Is there a meaning to this value?  Your immediate answer might be **'No'** because we should not have an intercept to begin with.  But, I want you think harder and ask could there be another interpretation?
+
 - Write a program using the 'M' approach, to find the 'best' estimates for the 'slope' and 'intercept' of the regression line.  Attach your code and output.
 
 *Hint:  You'll have to use two for-loops.*
 
-- Write a program usng the 'L' approach (gradient descent) to find the slope and intercept. Attach your code and output.
+- Write a program using the 'L' approach (gradient descent) to find the slope and intercept. Attach your code and output.
 
  5. [**Somewhat Hard**]  Consider the following two equations:
 
