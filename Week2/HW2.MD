@@ -1,6 +1,6 @@
 ## HW on Gradient Descent
 
-1. Inside the 'Week2' folder you'll find a code titiled 'quadratic function'.  Write a gradient descent code to find the mininmum of this function.  Please attach your code and the output.  If you are ambitious, you can add a visualization to show how the algorithm move from the inital guess to the correct minimum.  
+1. Inside the 'Week2' folder you'll find a code titled 'quadratic function'.  Write a gradient descent code to find the mininmum of this function.  Please attach your code and the output.  If you are ambitious, you can add a visualization to show how the algorithm move from the inital guess to the correct minimum.  
 
 2. Now start with the initial estimate x = -1 and step size 'alpha' = 1.  Run your code and you'll see that the estimates jumps back and forth to x= -1, and x=5.  Prove (by hand) why this happens.  I encourage you to NOT use GPT for this.  I want you to really think about what happens.  Please draw a picture on a paper and do the gradient descent step bu hand calculations.  Then you'll see what is going on.  Attach all of your hand written work and hand drawn plots.
 
