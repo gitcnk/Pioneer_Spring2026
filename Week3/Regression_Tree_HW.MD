@@ -12,7 +12,13 @@
 4. What is the main advantage (if any) in constrcting a tree model by excluding the two variables G1 and G2?  Briefly explain your answer.
 
 
-**Extra credit:** This is a coding challenge.  Consider the model $$G3 ~ G2 + G1 + Study$$ that we used in class to answer the following:
+**Extra credit:** This is a coding challenge.
+
+Consider the model that we used in class:
+  
+$$G3 ~ G2 + G1 + Study Time + Absenbces $$ 
+
+When we run our `rpart()` command we got the full tree with the first split variable was $$ G2 ####
 
 1. Implement the first split of the regression tree 
 2. Plot the loss funtion values (mean square error) for each iteration.  (x-axis =iterration, y -axis= loss).  Attach your plots.  You shuld have 4 plot for the 4 prdictors
