@@ -16,9 +16,9 @@
 
 Consider the model that we used in class:
   
-$$ G3 \~ G2 + G1 + Study Time + Absences $$ 
+$$ G3 \sim G2 + G1 + Study Time + Absences $$ 
 
-When we ran our `rpart()` command we got the full tree with the first split variable as $$ G2 > 10.5 $$.  Your task is to write a code to find this split variable and the corresponding split value.  
+When we ran our `rpart()` command we got the full tree with the first split variable as G2 > 10.5 .  Your task is to write a code to find this split variable and the corresponding split value.  
 
 1. Implement the first split of the regression tree. Attach your code.
 
