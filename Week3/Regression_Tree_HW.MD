@@ -20,7 +20,9 @@ $$ G3 \sim G2 + G1 + Study Time + Absences $$
 
 When we ran our `rpart()` command we got the full tree with the first split variable as G2 > 10.5 .  Your task is to write a code to find this split variable and the corresponding split value.  
 
-1. Implement the first split of the regression tree. Attach your code.
+1. Implement the first split of the regression tree. 
+*Hint:* Think of using a simple `for loop`.
+Attach your code.
 
 2. Plot the loss funtion values (mean square error) for each iteration and for each $$X$$ variable.  (x-axis = iterration, y-axis = loss).  Attach your plots.  You shuld have 4 plot for the 4 prdictors.
 
