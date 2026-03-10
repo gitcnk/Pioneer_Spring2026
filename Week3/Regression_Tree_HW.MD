@@ -18,8 +18,9 @@ Consider the model that we used in class:
   
 $$G3 ~ G2 + G1 + Study Time + Absenbces $$ 
 
-When we run our `rpart()` command we got the full tree with the first split variable was $$ G2 ####
+When we ran our `rpart()` command we got the full tree with the first split variable was $$ G2 > 10.5$$.  Your task is to write a code to find this split variable and the corresponding split value.  
 
-1. Implement the first split of the regression tree 
-2. Plot the loss funtion values (mean square error) for each iteration.  (x-axis =iterration, y -axis= loss).  Attach your plots.  You shuld have 4 plot for the 4 prdictors
-3. Compare your split point, say **xstar** with the R-function rpart.  You should get the same split point (G2 > 10) that we got from `rpart`.
+1. Implement the first split of the regression tree. 
+2. Plot the loss funtion values (mean square error) for each iteration and for each $$X$$ variable.  (x-axis = iterration, y-axis = loss).  Attach your plots.  You shuld have 4 plot for the 4 prdictors.
+
+3. Compare your split point, say **xstar** with the one we got from `rpart`.  You should get the same split point (G2 > 10.5) or someting close.
