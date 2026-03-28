@@ -18,5 +18,5 @@ https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients
 
 **Note:**  *We have not learned what the loss function the tree used, but this is an opportunity to think about it (don't ask GPT)*
 
-
-4. Use the `varImpPlot` command to construct the plot of 'variable importance' for your forest model.  What are the 3 main predictors that is strongly related to predicting 
+6. Now construct a random forest to do the same task.  Use 100 trees and use 3 randomly chosen predictors for each split of the trees.
+Use the `varImpPlot` command to construct the plot of 'variable importance' for your forest model. What are the 3 main predictors that is strongly related to predicting.
