@@ -15,7 +15,8 @@ https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients
 4. Think about all the predictors in your model and ask yourself why the tree model picked 'PAY_0' as the first splitting variable?  Don't think about the mathematical reasons, think about practical reasons.
 
 5. Click on the root note.  You'll see that about 22% of the people have defaulted.  Now click on the right hand node. Carfully examine the numbers.  Do the same with the left habd node. Do you think the model was able to separate the defaults from non-defaults effectively?  Breifly explain.
-*Note: We have not learned what the loss function the tree used, but this is an opportunity to think about it (don't ask GPT)*
+
+**Note:**  *We have not learned what the loss function the tree used, but this is an opportunity to think about it (don't ask GPT)*
 
 
 4. Use the `varImpPlot` command to construct the plot of 'variable importance' for your forest model.  What are the 3 main predictors that is strongly related to predicting 
