@@ -18,5 +18,10 @@ https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients
 
 **Note:**  *We have not learned what the loss function the tree used, but this is an opportunity to think about it (don't ask GPT)*
 
-6. Now construct a random forest to do the same task.  Use 100 trees and use 3 randomly chosen predictors for each split of the trees.
-Use the `varImpPlot` command to construct the plot of 'variable importance' for your forest model. What are the 3 main predictors that is strongly related to predicting.
+6. Now construct a random forest model to do the same task.  Use 100 trees and use 3 randomly chosen predictors for each split of the trees.
+Use the `varImpPlot` command to construct the plot of 'variable importance' for your forest model. What are the 3 main predictors that are strongly related to credit defaults?
+
+
+**Extra Credit**
+
+Look at the code we used for crime rate predictions.  At the very end, I added a code to create a niceer looking plot for the variable of importance.  Use that code as a guide and create a similer nicer looking plot for the credit default model.  You might have to change few lines to make it work.  This is a good exerceise for you to read the code and understand what each line is doing.  Hopefully this is a fun challenge for you to try!
