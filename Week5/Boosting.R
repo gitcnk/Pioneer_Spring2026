@@ -29,9 +29,9 @@ breast_cancer |>
 
 ## Definition of model parameters:
 
-#1. mfinal: controls how many boosting iterations to perform
-#2. control: other control parameters to be passed to the tree model
-#            like the depth of the tree, min number for each node, etc
+# 1. mfinal: controls how many boosting iterations to perform
+# 2. control: other control parameters to be passed to the tree model
+#             like the depth of the tree, min number for each node, etc.
 
 # The following model fits 100 trees sequentially. 
 # Each tree is simple (just one split). 
