@@ -10,7 +10,7 @@ https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients
 
 2. Now construct a tree model to predict `(Y)` using all predictors.  Attach the plot of your tree.  If you do this right, your tree will have only one split.
 
-3. In order to see what other variables might be relavent, we can tweak the 'complexity parameter (cp)' of the tree model.  You can do this by adding `... cp = 0.002 , ...' in your `rpart()` command.  Smaller values increases the depth of the tree.  What variables seem to be relavent in predicting credit default?
+3. In order to see what other variables might be relavent, we can tweak the `complexity parameter (cp)` of the tree model.  You can do this by adding `... cp = 0.002 , ...` in your `rpart()` command.  Smaller values increases the depth of the tree.  What variables seem to be relavent in predicting credit default?
 
 4. Think about all the predictors in your model and ask yourself why the tree model picked 'PAY_0' as the first splitting variable?  Don't think about a mathematical reason, think about a practical reason.
 
