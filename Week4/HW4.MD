@@ -14,7 +14,7 @@ https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients
 
 4. Think about all the predictors in your model and ask yourself why the tree model picked 'PAY_0' as the first splitting variable?  Don't think about a mathematical reason, think about a practical reason.
 
-5. Click on the root node.  You'll see that about 22% of the people have defaulted.  Now click on the right hand node. Carefully examine the numbers.  Do the same with the left habd node. Do you think the model was able to separate the defaults from non-defaults effectively?  Breifly explain.
+5. Click on the root node.  You'll see that about 22% of the people have defaulted.  Now click on the right hand node. Carefully examine the numbers.  Do the same with the left hand node. Do you think the model was able to separate the defaults from non-defaults effectively?  Breifly explain.
 
 **Note:**  *We have not learned what the loss function the tree used, but this is an opportunity to think about it (don't ask GPT)*
 
