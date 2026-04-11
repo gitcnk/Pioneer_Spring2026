@@ -50,7 +50,7 @@ Example:  `predict(mytree, newdata = test_data)`
 
 You might have to play around with this function for each model.  Feel free to use GPT for assistance. 
 
-3. As you can see the overall error rate consistes of two errors:
+3. As you can see, the overall error rate consists of two types of errors:
   - cancer classified as non-cancer
   - non-cancer classifed as cancer
 
