@@ -6,7 +6,9 @@ This part of the HW is on concepts.
 
 $$ Gini = \hat p_1(1-\hat p_1) + \hat p_2(1-\hat p_2) $$
 
-Extend this to 3 group classification.  For example, if we have 
+Extend this to 3 group classification.  For example, if we have 3 classes: Cancer, Non-Cancer, Unclear, show that the Gini index is: $$ Gini = \hat p_1(1-\hat p_1) + \hat p_2(1-\hat p_2) + \hat p_3(1-\hat p_3) $$
+
+
 ---------
 
 This part of the HW is on applications:
