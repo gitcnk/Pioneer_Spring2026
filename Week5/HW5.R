@@ -12,11 +12,16 @@ train_ids = sample(ix, size = 500)
 train_set = breast_cancer[ train_ids, ]  # This has 500 cases
 test_set = breast_cancer[ -train_ids, ]  # This has 69 cases
  
-## For the following models use the training dataset
+# For the following models use the training dataset
+
 ### 1. Fit a tree model 
 
 ### 2. Fit a random forest model
 
 ### 3. Fit a boosting model
+
+
+##------------------------------------
+
 
 ### 4. Evaluate the accuracy of these 3 models using the test set
