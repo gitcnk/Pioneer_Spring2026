@@ -44,9 +44,9 @@ Goal: Fit and evaluate two models `(tree and forest)` and compare them with the 
 
 2. Create the confusion matrix (a table of actual and predicted class labels) for each of the models using the test data.  Which model seems to be accurate?  Use the overall error rate to answer this question.
 
-`Note: you can use the predict() function to find the predicted probability(or class).  Use the test data for the newdata argument`
+Note: you can use the `predict()` function to find the predicted probability(or class).  Use the test data for the newdata argument
 
-`Example:  predict(mytree , newdata = test_data)`
+Example:  `predict(mytree , newdata = test_data)`
 
 You might have to play around with this function for each model.  Feel free to use GPT for assistance. 
 
