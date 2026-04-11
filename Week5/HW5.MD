@@ -14,8 +14,10 @@ $$ Gini = \hat p_1(1-\hat p_1) + \hat p_2(1-\hat p_2) + \hat p_3(1-\hat p_3) $$
 
 $$ w_i^{[k+1]} = w_i^{[k]} ( \beta^{[k]} )^{miss_i} $$
 
-where $w_i^{[k]}$ is the weight of the $i^{th}$ person at the $k^{th}$ boosting iteration and $\beta$ is the boosing factor (goodness of the tree).
+where $w_i^{[k]}$ is the weight of the $i^{th}$ person and $\beta^{[k]}$ is the goodness of the tree
+at the $k^{th}$ boosting iteration.
 
+Explain in few sentences, what this formula is doing exactly and why it makes sense.
 
 
 ---------
