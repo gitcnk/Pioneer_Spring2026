@@ -17,9 +17,13 @@ $$ w_i^{[k+1]} = w_i^{[k]} ( \beta^{[k]} )^{miss_i} $$
 where $w_i^{[k]}$ is the weight of the $i^{th}$ person and $\beta^{[k]}$ is the goodness of the tree
 at the $k^{th}$ boosting iteration.
 
-Explain in few sentences, what this formula is doing exactly and why it makes sense.
+Explain in few sentences, what this formula is doing exactly and why it makes sense.  Make sure to explain why 
 
 
+*Extra credit*
+Note that $\beta^{[k]}$ is a non-linear function of the misclassification error.   That is:
+$$$\beta^{[k]}$ = \frac{1 - error^{[k]}}{error^{[k]}} $$ 
+Explain why the non-linear form is approriate for boosting.
 ---------
 
 This part of the HW is on applications:
