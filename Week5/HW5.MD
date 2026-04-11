@@ -10,6 +10,9 @@ Extend this to 3 group classification.  For example, if we have 3 classes: Cance
 
 $$ Gini = \hat p_1(1-\hat p_1) + \hat p_2(1-\hat p_2) + \hat p_3(1-\hat p_3) $$
 
+2. In the boosting algorithm we have a weight update rule as follows:
+
+$$ w^{[k+1]} = \beta^{miss_i}w^{[k]} $$
 
 ---------
 
