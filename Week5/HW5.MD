@@ -21,8 +21,9 @@ Explain in few sentences, what this formula is doing exactly and why it makes se
 
 
 *Extra credit*
+
 Note that $\beta^{[k]}$ is a non-linear function of the misclassification error.   That is:
-$$$\beta^{[k]}$ = \frac{1 - error^{[k]}}{error^{[k]}} $$ 
+$$\beta^{[k]} = \frac{1 - error^{[k]}}{error^{[k]}} $$ 
 Explain why the non-linear form is approriate for boosting.
 ---------
 
