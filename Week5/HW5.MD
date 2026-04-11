@@ -37,7 +37,7 @@ Explain why the non-linear form is approriate for our boosting algorithm.
 
 This part of the HW is on applications:
 
-Goal: Fit and evaluate two models `(tree and forest)` and compare those with the `boosting` algorithm.
+**Goal:** Fit and evaluate two models `(tree and forest)` and compare those with the `boosting` algorithm.
 
 
 1. Use the given R-code `(HW5.R)` to load the breast cancer dataset. There are 569 patients in the full dataset.  We are going to use 500 to train our models.  We can use the rest of the 69 to validate(test) our models.
