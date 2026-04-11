@@ -58,8 +58,7 @@ Which error is more serious?  Briefly explain.
 
 4. Based on the more serious error, which model seems to be more accurate?
 
-5. What are the most relavent variables in predicting cancer in all three models?  If you have to pick one (or two) key predictors among the 3 models, which variables do you pick.
-
+5. Which variables are most relevant for predicting cancer across all three models? If you had to choose one or two key predictors based on the three models, which variables would you select?
 ---------
 
 
