@@ -2,7 +2,7 @@
 
 This part of the HW is on concepts.
 
-1. In class we proved that the Gini index for two group classifications is as: 
+1. In class we proved that the Gini index for two group classification as: 
 
 $$ Gini = \hat p_1(1-\hat p_1) + \hat p_2(1-\hat p_2) $$
 
@@ -30,19 +30,25 @@ Note that $\beta^{[k]}$ is a non-linear function of the misclassification error.
 
 That is:  $$\beta^{[k]} = \frac{1 - error^{[k]}}{error^{[k]}} $$ 
 
-Explain why the non-linear form is approriate for boosting.
+Explain why the non-linear form is approriate for our boosting algorithm.
 
 
 ---------
 
 This part of the HW is on applications:
 
-Goal: Fit and evaluate two models `(tree and forest)` and compare them with the `boosting` model.
+Goal: Fit and evaluate two models `(tree and forest)` and compare them with the `boosting` algorithm.
 
 
 1. Use the given R-code `(HW5.R)` to load the breast cancer dataset. There are 569 patients in the full dataset.  We are going to use 500 to train our models.  We can use the rest of the 69 to validate(test) our models.
 
-2. Create the confusion matrix for each of the models using the test data.  Which model seems to be accurate?  Use the overall error rate to answer this question.
+2. Create the confusion matrix (a table of actual and predicted class labels) for each of the models using the test data.  Which model seems to be accurate?  Use the overall error rate to answer this question.
+
+`Note: you can use the predict() function to find the predicted probability(or class).  Use the test data for the newdata argument`
+
+`Example:  predict(mytree , newdata = test_data)`
+
+You might have to play around with this function for each model.  Feel free to use GPT for assistance. 
 
 3. As you can see the overall error rate consistes of two errors:
   - cancer classified as non-cancer
