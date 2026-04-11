@@ -20,6 +20,11 @@ at the $k^{th}$ boosting iteration.
 Explain in few sentences, what this formula is doing exactly and why it makes sense.  Make sure to explain why 
 
 
+-----
+
+
+
+
 *Extra credit*
 
 Note that $\beta^{[k]}$ is a non-linear function of the misclassification error.   
