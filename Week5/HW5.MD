@@ -1,9 +1,9 @@
 ## HW on Boosting
 
----------
 This part of the HW is on concepts.
 
-1. 
+1. In class we proved that the Gini index for two group classifications is as: 
+$$ Gini = p_1(1-p_1) + p_2(1-p_2) $$
 
 
 ---------
