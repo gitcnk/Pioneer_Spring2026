@@ -4,9 +4,9 @@ This part of the HW is on concepts.
 
 1. In class we proved that the Gini index for two group classifications is as: 
 
-$$ Gini = p_1(1-p_1) + p_2(1-p_2) $$
+$$ Gini = \hat p_1(1-\hat p_1) + \hat p_2(1-\hat p_2) $$
 
-
+Extend this to 3 group classification.  For example, if we have 
 ---------
 
 This part of the HW is on applications:
