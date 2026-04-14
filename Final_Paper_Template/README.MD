@@ -8,3 +8,5 @@
 
 
 - If you'd like to use LaTex (highly recommend) you can use the following journal article template: https://www.overleaf.com/project/69de8352fea55d39f92b9bf9
+
+**Note: You'll need an account from Overleaf (https://www.overleaf.com/) to open this.  Make sure to register for a free account beofore you open this**
