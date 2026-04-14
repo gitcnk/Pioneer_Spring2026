@@ -32,7 +32,7 @@
 
 
 
-### grading policy
+### Grading Policy
 
 You will be graded based on my qualitative assessment of your paper.  The rubric is below.
 
